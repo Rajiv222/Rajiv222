@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajiv222
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
+- 📫 How to reach me-you can drop me a mail on rajiv.karlamangal28@gmail.com
